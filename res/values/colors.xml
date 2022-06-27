@@ -81,4 +81,6 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
     <color name="disabled_eq">#ff6c6c6c</color>
     <color name="radial_knob_arc_bg">#4e5052</color>
     <color name="radial_knob_arc_bg_disabled">#6c6c6c</color>
+  
+    <color name="ic_launcher_background">#95d0f6</color>
 </resources>
